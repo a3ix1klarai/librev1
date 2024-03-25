@@ -46,6 +46,9 @@ endpoints:
       retrievalModels: ["gpt-4-turbo-preview"]
     # (optional) Assistant Capabilities available to all users. Omit the ones you wish to exclude. Defaults to list below.
       capabilities: ["code_interpreter", "retrieval", "actions", "tools", "image_vision"]
+      titleModel: "assistants"
+      titleConvo: true
+      assistants: true # <-------- critical
       modelDisplayLabel: "Assistants"
 
     # Mistral AI API
