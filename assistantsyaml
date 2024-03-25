@@ -40,7 +40,7 @@ endpoints:
       pollIntervalMs: 500
       timeoutMs: 10000
     # Use either `supportedIds` or `excludedIds` but not both
-      supportedIds: ["asst_Rj78lJS1fWidU5P0hmwtzs0l", "asst_supportedAssistantId2"]
+      supportedIds: ["asst_Rj78lJS1fWidU5P0hmwtzs0l"]
     # excludedIds: ["asst_excludedAssistantId"]
     # (optional) Models that support retrieval, will default to latest known OpenAI models that support the feature
       retrievalModels: ["gpt-4-turbo-preview"]
