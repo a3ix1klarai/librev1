@@ -35,7 +35,7 @@ endpoints:
 # Assistants
   
     - name: "Assistants"
-      apiKey: "${OPENAI_API_KEY}"
+      apiKey: "${ASSISTANTS_API_KEY}"
       disableBuilder: false
       pollIntervalMs: 500
       timeoutMs: 10000
