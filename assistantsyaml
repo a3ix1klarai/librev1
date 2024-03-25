@@ -33,7 +33,7 @@ endpoints:
       titleModel: "mixtral-8x7b-32768"
       modelDisplayLabel: "groq"
 # Assistants
-  assistants:
+  
     - name: "Assistants"
       apiKey: "${OPENAI_API_KEY}"
       disableBuilder: false
