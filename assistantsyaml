@@ -92,7 +92,36 @@ endpoints:
           "anthropic/claude-3-opus:beta",
           "------------------------------",
 
+          "128k Category",
+          "------------------------------",
+          "128k 0.125 Cents >>>>>",
+          "google/gemini-pro",
+          "google/gemini-pro-vision",
+          "128k 0.25 Cents >>>>>",
+          "google/palm-2-chat-bison-32k",
+          "google/palm-2-codechat-bison-32k",
+          "128k 0.5 Cents >>>>>",
+          "cohere/command-r",
+          "128k 10 USD >>>>>",
+          "openai/gpt-4-turbo-preview",
+          "openai/gpt-4-vision-preview",         
+          "------------------------------",
+          "32k Category",
+          "------------------------------",
+          "32k FREE >>>>>",
+          "mistralai/mistral-7b-instruct",
+          "32k 0.13 > 0.5 Cents >>>>>",
+          "mistralai/mistral-7b-instruct:nitro",
+          "mistralai/mixtral-8x7b-instruct",
+          "mistralai/mixtral-8x7b-instruct:nitro",
+          "mistralai/mixtral-8x7b",
+          "mistralai/mistral-tiny",
 
+          "mistralai/mistral-small",
+          "mistralai/mistral-medium",
+          "mistralai/mistral-large",
+
+          "------------------------------",
 
           "200k <0.25 Cents - Category",
 
@@ -100,45 +129,13 @@ endpoints:
           "nousresearch/nous-capybara-7b:free",
           "mistralai/mistral-7b-instruct:free",
           
-          "openchat/openchat-7b:free",
-        
-          "------------------------------",
-          "openrouter/auto",
-        
           
-          "cohere/command-r",
-          "------------------------------",
-          "openai/gpt-4-turbo-preview",
-          "openai/gpt-4-vision-preview",         
-          "------------------------------",
           
-          "google/palm-2-chat-bison-32k",
-          "google/palm-2-codechat-bison-32k",
-          "google/gemini-pro",
-          "google/gemini-pro-vision",
           "gemma/gemma-7b-it",
           "google/gemma-7b-it:nitro",
           "------------------------------",
-          "mistralai/mistral-7b-instruct",
-          "mistralai/mistral-7b-instruct:nitro",
-          "mistralai/mixtral-8x7b-instruct",
-          "mistralai/mixtral-8x7b-instruct:nitro",
-          "mistralai/mixtral-8x7b",
-          "mistralai/mistral-tiny",
-          "mistralai/mistral-small",
-          "mistralai/mistral-medium",
-          "mistralai/mistral-large",
-          "------------------------------",
-          "anthropic/claude-3-opus",
-          "anthropic/claude-3-sonnet",
           
          
-          "anthropic/claude-3-opus:beta",
-          "anthropic/claude-3-sonnet:beta",
-          
-         
-          "------------------------------",
-          
          
           "meta-llama/llama-2-70b-chat:nitro",
           
