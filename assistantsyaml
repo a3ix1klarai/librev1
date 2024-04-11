@@ -109,7 +109,7 @@ endpoints:
           "32k FREE -------------------------------------",
           "mistralai/mistral-7b-instruct",
           "databricks/dbrx-instruct:nitro",
-          "databricks/dbrx-instruct"
+          "databricks/dbrx-instruct",
           "32k 0.13 > 0.5 Cents -------------------------",
           "mistralai/mistral-7b-instruct:nitro",
           "mistralai/mixtral-8x7b-instruct",
