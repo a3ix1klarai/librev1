@@ -79,38 +79,38 @@ endpoints:
       models:
         "default": [
 
+          "3Mill 3 USD ----------------------------------",
+          "google/gemini-pro-1.5",
           "200k 0.25 Cents ------------------------------",
           "anthropic/claude-3-haiku",
           "anthropic/claude-3-haiku:beta",
-          "200k 3 USD >>>>>",
+          "200k 3 USD -----------------------------------",
           "anthropic/claude-3-sonnet",
           "anthropic/claude-3-sonnet:beta",
-          "200k 3 USD >>>>>",
+          "200k 3 USD -----------------------------------",
           "anthropic/claude-3-opus",
           "anthropic/claude-3-opus:beta",
-          "------------------------------",
-          "128k Category",
-          "------------------------------",
-          "128k 0.125 Cents >>>>>",
+          "128k 0.125 Cents -----------------------------",
           "google/gemini-pro",
           "google/gemini-pro-vision",
-          "google/gemini-pro-1.5",
-          "128k 0.25 Cents >>>>>",
+          
+          "128k 0.25 Cents ------------------------------",
           "google/palm-2-chat-bison-32k",
           "google/palm-2-codechat-bison-32k",
-          "128k 0.5 Cents >>>>>",
+          "128k 0.5 Cents -------------------------------",
           "cohere/command-r",
           "cohere/command-r-plus",
-          "128k 10 USD >>>>>",
+          "128k 10 USD ----------------------------------",
           "openai/gpt-4-turbo",
           "openai/gpt-4-turbo-preview",
-          "openai/gpt-4-vision-preview",         
-          "------------------------------",
-          "32k Category",
-          "------------------------------",
-          "32k FREE >>>>>",
+          "openai/gpt-4-vision-preview",
+          "60k 1 USD -------------------------------------",
+          "mistralai/mixtral-8x22b",         
+          "32k FREE -------------------------------------",
           "mistralai/mistral-7b-instruct",
-          "32k 0.13 > 0.5 Cents >>>>>",
+          "databricks/dbrx-instruct:nitro",
+          "databricks/dbrx-instruct"
+          "32k 0.13 > 0.5 Cents -------------------------",
           "mistralai/mistral-7b-instruct:nitro",
           "mistralai/mixtral-8x7b-instruct",
           "mistralai/mixtral-8x7b-instruct:nitro",
@@ -120,48 +120,11 @@ endpoints:
           "mistralai/mistral-small",
           "mistralai/mistral-medium",
           "mistralai/mistral-large",
-
-          "------------------------------",
-
-          "200k <0.25 Cents - Category",
-
-          "google/gemma-7b-it:free",
-          "nousresearch/nous-capybara-7b:free",
-          "mistralai/mistral-7b-instruct:free",
-          
-          
-          
-          "gemma/gemma-7b-it",
-          "google/gemma-7b-it:nitro",
-          "------------------------------",
-          
-         
-         
-          "meta-llama/llama-2-70b-chat:nitro",
-          
-          "meta-llama/codellama-34b-instruct",
-          "codellama/codellama-70b-instruct",
-          "------------------------------",
-          
-          "------------------------------",
-          
-          "nousresearch/nous-capybara-34b",
-          
-         
-          "nousresearch/nous-hermes-2-mixtral-8x7b-dpo",
-          "nousresearch/nous-hermes-2-mixtral-8x7b-sft",
-         
+               
           "perplexity/sonar-medium-online",
           "perplexity/sonar-small-chat",
           "perplexity/sonar-small-online",
           "perplexity/sonar-medium-chat",
-
-
-          
-          "------------------------------",
-          "togethercomputer/stripedhyena-nous-7b",
-          "togethercomputer/stripedhyena-hessian-7b",
-          "------------------------------",
           
          
           ]
