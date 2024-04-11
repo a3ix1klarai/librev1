@@ -79,9 +79,7 @@ endpoints:
       models:
         "default": [
 
-          "200k Category",
-          "------------------------------",
-          "200k 0.25 Cents >>>>>",
+          "200k 0.25 Cents ------------------------------",
           "anthropic/claude-3-haiku",
           "anthropic/claude-3-haiku:beta",
           "200k 3 USD >>>>>",
@@ -91,7 +89,6 @@ endpoints:
           "anthropic/claude-3-opus",
           "anthropic/claude-3-opus:beta",
           "------------------------------",
-
           "128k Category",
           "------------------------------",
           "128k 0.125 Cents >>>>>",
